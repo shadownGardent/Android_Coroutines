@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Coroutine</string>
+    <string name="text_login">Đăng nhập</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="text_login_falied">Sai tên đăng nhập hoặc mật khẩu! Vui lòng kiểm tra lại\n\n</string>
+    <string name="text_success">Đăng nhập thành công</string>
+    <string name="text_hello">Xin chào</string>
+</resources>
